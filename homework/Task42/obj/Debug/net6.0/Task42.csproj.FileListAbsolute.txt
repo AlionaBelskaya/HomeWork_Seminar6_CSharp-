@@ -1,0 +1,15 @@
+D:\Desktop\S6_C#\homework\Task42\bin\Debug\net6.0\Task42.exe
+D:\Desktop\S6_C#\homework\Task42\bin\Debug\net6.0\Task42.deps.json
+D:\Desktop\S6_C#\homework\Task42\bin\Debug\net6.0\Task42.runtimeconfig.json
+D:\Desktop\S6_C#\homework\Task42\bin\Debug\net6.0\Task42.dll
+D:\Desktop\S6_C#\homework\Task42\bin\Debug\net6.0\Task42.pdb
+D:\Desktop\S6_C#\homework\Task42\obj\Debug\net6.0\Task42.csproj.AssemblyReference.cache
+D:\Desktop\S6_C#\homework\Task42\obj\Debug\net6.0\Task42.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\S6_C#\homework\Task42\obj\Debug\net6.0\Task42.AssemblyInfoInputs.cache
+D:\Desktop\S6_C#\homework\Task42\obj\Debug\net6.0\Task42.AssemblyInfo.cs
+D:\Desktop\S6_C#\homework\Task42\obj\Debug\net6.0\Task42.csproj.CoreCompileInputs.cache
+D:\Desktop\S6_C#\homework\Task42\obj\Debug\net6.0\Task42.dll
+D:\Desktop\S6_C#\homework\Task42\obj\Debug\net6.0\refint\Task42.dll
+D:\Desktop\S6_C#\homework\Task42\obj\Debug\net6.0\Task42.pdb
+D:\Desktop\S6_C#\homework\Task42\obj\Debug\net6.0\Task42.genruntimeconfig.cache
+D:\Desktop\S6_C#\homework\Task42\obj\Debug\net6.0\ref\Task42.dll
